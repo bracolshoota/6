@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\CadastroPessoa\bin\Debug\net8.0-windows\CadastroPessoa.exe
+C:\Users\aluno\source\repos\CadastroPessoa\bin\Debug\net8.0-windows\CadastroPessoa.deps.json
+C:\Users\aluno\source\repos\CadastroPessoa\bin\Debug\net8.0-windows\CadastroPessoa.runtimeconfig.json
+C:\Users\aluno\source\repos\CadastroPessoa\bin\Debug\net8.0-windows\CadastroPessoa.dll
+C:\Users\aluno\source\repos\CadastroPessoa\bin\Debug\net8.0-windows\CadastroPessoa.pdb
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.Form1.resources
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.AssemblyInfo.cs
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.dll
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\refint\CadastroPessoa.dll
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.pdb
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\CadastroPessoa.genruntimeconfig.cache
+C:\Users\aluno\source\repos\CadastroPessoa\obj\Debug\net8.0-windows\ref\CadastroPessoa.dll
