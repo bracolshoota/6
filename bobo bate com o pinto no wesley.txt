@@ -1,3 +1,7 @@
+
+
+Designer
+
 namespace CadastroPessoa
 {
     partial class Form1
@@ -159,7 +163,7 @@ namespace CadastroPessoa
 }
 
 
-Designer
+
 
 
 
